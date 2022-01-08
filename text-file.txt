@@ -1,1 +1,2 @@
 primer cambio despues de estar en staging area
+segungo cambio despues de clonar el project 
