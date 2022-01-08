@@ -1,2 +1,3 @@
 primer cambio despues de estar en staging area
-segungo cambio despues de clonar el project 
+segungo cambio despues de clonar el project
+cambio en branch newfeature-develop
